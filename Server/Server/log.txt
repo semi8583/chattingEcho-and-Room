@@ -1,0 +1,1001 @@
+2022³â 11¿ù 30ÀÏ 22½Ã 32ºÐ 54ÃÊ [bind] from server
+2022³â 11¿ù 30ÀÏ 22½Ã 32ºÐ 54ÃÊ [listen] from server
+2022³â 11¿ù 30ÀÏ 22½Ã 32ºÐ 54ÃÊ [accept] from server
+2022³â 11¿ù 30ÀÏ 22½Ã 32ºÐ 54ÃÊ connected client: 1 ¹øÂ° Client
+2022³â 11¿ù 30ÀÏ 22½Ã 32ºÐ 54ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd" from server "1" ¹øÂ° Client
+2022³â 11¿ù 30ÀÏ 22½Ã 32ºÐ 54ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd" from client "1" ¹øÂ° Client
+Enter PORT number (3587) :2022³â 12¿ù 1ÀÏ 11½Ã 33ºÐ 16ÃÊ [bind] from server
+2022³â 12¿ù 1ÀÏ 11½Ã 33ºÐ 16ÃÊ [listen] from server
+2022³â 12¿ù 1ÀÏ 11½Ã 33ºÐ 16ÃÊ [accept] from server
+2022³â 12¿ù 1ÀÏ 11½Ã 33ºÐ 16ÃÊ connected client: 1 ¹øÂ° Client
+Enter PORT number (3587) :2022³â 12¿ù 1ÀÏ 11½Ã 36ºÐ 45ÃÊ [bind] from server
+2022³â 12¿ù 1ÀÏ 11½Ã 36ºÐ 45ÃÊ [listen] from server
+2022³â 12¿ù 1ÀÏ 11½Ã 36ºÐ 45ÃÊ [accept] from server
+2022³â 12¿ù 1ÀÏ 11½Ã 36ºÐ 45ÃÊ connected client: 1 ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 36ºÐ 45ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvccccccccccc" from server "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 36ºÐ 45ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvccccccccccc" from client "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 36ºÐ 45ÃÊ [accept] from server
+2022³â 12¿ù 1ÀÏ 11½Ã 36ºÐ 45ÃÊ connected client: 2 ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 36ºÐ 45ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "19" , ¹®ÀÚ¿­ ±æÀÌ: "7" , ¹®ÀÚ¿­: "ddddddd" from server "2" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 36ºÐ 45ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "19" , ¹®ÀÚ¿­ ±æÀÌ: "7" , ¹®ÀÚ¿­: "ddddddd" from client "2" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 36ºÐ 45ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "4" , ¹®ÀÚ¿­ ±æÀÌ: "0" , ¹®ÀÚ¿­: "" from server "1684300800" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 36ºÐ 45ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "4" , ¹®ÀÚ¿­ ±æÀÌ: "0" , ¹®ÀÚ¿­: "" from client "1684300800" ¹øÂ° Client
+Enter PORT number (3587) :2022³â 12¿ù 1ÀÏ 11½Ã 39ºÐ 22ÃÊ [bind] from server
+2022³â 12¿ù 1ÀÏ 11½Ã 39ºÐ 22ÃÊ [listen] from server
+2022³â 12¿ù 1ÀÏ 11½Ã 39ºÐ 22ÃÊ [accept] from server
+2022³â 12¿ù 1ÀÏ 11½Ã 39ºÐ 22ÃÊ connected client: 1 ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 39ºÐ 22ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 39ºÐ 22ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 39ºÐ 22ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "4" , ¹®ÀÚ¿­ ±æÀÌ: "0" , ¹®ÀÚ¿­: "" from server "23290368" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 39ºÐ 22ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "4" , ¹®ÀÚ¿­ ±æÀÌ: "0" , ¹®ÀÚ¿­: "" from client "23290368" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 39ºÐ 22ÃÊ closed client: 1 ¹øÂ° Client
+Enter PORT number (3587) :2022³â 12¿ù 1ÀÏ 11½Ã 40ºÐ 19ÃÊ [bind] from server
+2022³â 12¿ù 1ÀÏ 11½Ã 40ºÐ 19ÃÊ [listen] from server
+2022³â 12¿ù 1ÀÏ 11½Ã 40ºÐ 19ÃÊ [accept] from server
+2022³â 12¿ù 1ÀÏ 11½Ã 40ºÐ 19ÃÊ connected client: 1 ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 40ºÐ 19ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 40ºÐ 19ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 40ºÐ 19ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "4" , ¹®ÀÚ¿­ ±æÀÌ: "0" , ¹®ÀÚ¿­: "" from server "23290368" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 40ºÐ 19ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "4" , ¹®ÀÚ¿­ ±æÀÌ: "0" , ¹®ÀÚ¿­: "" from client "23290368" ¹øÂ° Client
+Enter PORT number (3587) :2022³â 12¿ù 1ÀÏ 11½Ã 41ºÐ 21ÃÊ [bind] from server
+2022³â 12¿ù 1ÀÏ 11½Ã 41ºÐ 21ÃÊ [listen] from server
+2022³â 12¿ù 1ÀÏ 11½Ã 41ºÐ 21ÃÊ [accept] from server
+2022³â 12¿ù 1ÀÏ 11½Ã 41ºÐ 21ÃÊ connected client: 1 ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 41ºÐ 21ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 41ºÐ 21ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "1" ¹øÂ° Client
+Enter PORT number (3587) :2022³â 12¿ù 1ÀÏ 11½Ã 49ºÐ 45ÃÊ [bind] from server
+2022³â 12¿ù 1ÀÏ 11½Ã 49ºÐ 45ÃÊ [listen] from server
+2022³â 12¿ù 1ÀÏ 11½Ã 49ºÐ 45ÃÊ [accept] from server
+2022³â 12¿ù 1ÀÏ 11½Ã 49ºÐ 45ÃÊ connected client: 1 ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 49ºÐ 45ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvccccccccccc" from server "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 49ºÐ 45ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvccccccccccc" from client "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 49ºÐ 45ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 49ºÐ 45ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 49ºÐ 45ÃÊ [accept] from server
+2022³â 12¿ù 1ÀÏ 11½Ã 49ºÐ 45ÃÊ connected client: 2 ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 49ºÐ 45ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "aaa" from server "2" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 49ºÐ 45ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "aaa" from client "2" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 49ºÐ 45ÃÊ closed client: 2 ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 11½Ã 49ºÐ 45ÃÊ closed client: 1 ¹øÂ° Client
+Enter PORT number (3587) :2022³â 12¿ù 1ÀÏ 12½Ã 21ºÐ 7ÃÊ [bind] from server
+2022³â 12¿ù 1ÀÏ 12½Ã 21ºÐ 7ÃÊ [listen] from server
+2022³â 12¿ù 1ÀÏ 12½Ã 21ºÐ 7ÃÊ [accept] from server
+2022³â 12¿ù 1ÀÏ 12½Ã 21ºÐ 7ÃÊ connected client: 1 ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 21ºÐ 7ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "17" , ¹®ÀÚ¿­ ±æÀÌ: "5" , ¹®ÀÚ¿­: "hello" from server "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 21ºÐ 7ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "17" , ¹®ÀÚ¿­ ±æÀÌ: "5" , ¹®ÀÚ¿­: "hello" from client "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 21ºÐ 7ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "14" , ¹®ÀÚ¿­ ±æÀÌ: "2" , ¹®ÀÚ¿­: "hi" from server "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 21ºÐ 7ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "14" , ¹®ÀÚ¿­ ±æÀÌ: "2" , ¹®ÀÚ¿­: "hi" from client "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 21ºÐ 7ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "16" , ¹®ÀÚ¿­ ±æÀÌ: "4" , ¹®ÀÚ¿­: "good" from server "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 21ºÐ 7ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "16" , ¹®ÀÚ¿­ ±æÀÌ: "4" , ¹®ÀÚ¿­: "good" from client "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 21ºÐ 7ÃÊ [accept] from server
+2022³â 12¿ù 1ÀÏ 12½Ã 21ºÐ 7ÃÊ connected client: 2 ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 21ºÐ 7ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "16" , ¹®ÀÚ¿­ ±æÀÌ: "4" , ¹®ÀÚ¿­: "semi" from server "2" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 21ºÐ 7ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "16" , ¹®ÀÚ¿­ ±æÀÌ: "4" , ¹®ÀÚ¿­: "semi" from client "2" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 21ºÐ 7ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "16" , ¹®ÀÚ¿­ ±æÀÌ: "4" , ¹®ÀÚ¿­: "semi" from server "2" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 21ºÐ 7ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "16" , ¹®ÀÚ¿­ ±æÀÌ: "4" , ¹®ÀÚ¿­: "semi" from client "2" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 21ºÐ 7ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "17" , ¹®ÀÚ¿­ ±æÀÌ: "5" , ¹®ÀÚ¿­: "Hello" from server "2" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 21ºÐ 7ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "17" , ¹®ÀÚ¿­ ±æÀÌ: "5" , ¹®ÀÚ¿­: "Hello" from client "2" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 21ºÐ 7ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "16" , ¹®ÀÚ¿­ ±æÀÌ: "4" , ¹®ÀÚ¿­: "semi" from server "2" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 21ºÐ 7ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "16" , ¹®ÀÚ¿­ ±æÀÌ: "4" , ¹®ÀÚ¿­: "semi" from client "2" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 21ºÐ 7ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "28" , ¹®ÀÚ¿­ ±æÀÌ: "16" , ¹®ÀÚ¿­: "semisemisemisemi" from server "2" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 21ºÐ 7ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "28" , ¹®ÀÚ¿­ ±æÀÌ: "16" , ¹®ÀÚ¿­: "semisemisemisemi" from client "2" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 21ºÐ 7ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "16" , ¹®ÀÚ¿­ ±æÀÌ: "4" , ¹®ÀÚ¿­: "semi" from server "2" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 21ºÐ 7ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "16" , ¹®ÀÚ¿­ ±æÀÌ: "4" , ¹®ÀÚ¿­: "semi" from client "2" ¹øÂ° Client
+Enter PORT number (3587) :2022³â 12¿ù 1ÀÏ 12½Ã 42ºÐ 11ÃÊ [bind] from server
+2022³â 12¿ù 1ÀÏ 12½Ã 42ºÐ 11ÃÊ [listen] from server
+2022³â 12¿ù 1ÀÏ 12½Ã 42ºÐ 11ÃÊ [accept] from server
+2022³â 12¿ù 1ÀÏ 12½Ã 42ºÐ 11ÃÊ connected client: 1 ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 42ºÐ 11ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "4" , ¹®ÀÚ¿­ ±æÀÌ: "0" , ¹®ÀÚ¿­: "" from server "0" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 42ºÐ 11ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "4" , ¹®ÀÚ¿­ ±æÀÌ: "0" , ¹®ÀÚ¿­: "" from client "0" ¹øÂ° Client
+Enter PORT number (3587) :2022³â 12¿ù 1ÀÏ 12½Ã 43ºÐ 37ÃÊ [bind] from server
+2022³â 12¿ù 1ÀÏ 12½Ã 43ºÐ 37ÃÊ [listen] from server
+2022³â 12¿ù 1ÀÏ 12½Ã 43ºÐ 37ÃÊ [accept] from server
+2022³â 12¿ù 1ÀÏ 12½Ã 43ºÐ 37ÃÊ connected client: 1 ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 43ºÐ 37ÃÊ closed client: 1 ¹øÂ° Client
+Enter PORT number (3587) :2022³â 12¿ù 1ÀÏ 12½Ã 44ºÐ 9ÃÊ [bind] from server
+2022³â 12¿ù 1ÀÏ 12½Ã 44ºÐ 9ÃÊ [listen] from server
+2022³â 12¿ù 1ÀÏ 12½Ã 44ºÐ 9ÃÊ [accept] from server
+2022³â 12¿ù 1ÀÏ 12½Ã 44ºÐ 9ÃÊ connected client: 1 ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 44ºÐ 9ÃÊ closed client: 1 ¹øÂ° Client
+Enter PORT number (3587) :2022³â 12¿ù 1ÀÏ 12½Ã 45ºÐ 5ÃÊ [bind] from server
+2022³â 12¿ù 1ÀÏ 12½Ã 45ºÐ 5ÃÊ [listen] from server
+2022³â 12¿ù 1ÀÏ 12½Ã 45ºÐ 5ÃÊ [accept] from server
+2022³â 12¿ù 1ÀÏ 12½Ã 45ºÐ 5ÃÊ connected client: 1 ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 45ºÐ 5ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvccccccccccc" from server "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 45ºÐ 5ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvccccccccccc" from client "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 45ºÐ 5ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 45ºÐ 5ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 45ºÐ 5ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "14" , ¹®ÀÚ¿­ ±æÀÌ: "2" , ¹®ÀÚ¿­: "12" from server "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 45ºÐ 5ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "14" , ¹®ÀÚ¿­ ±æÀÌ: "2" , ¹®ÀÚ¿­: "12" from client "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 45ºÐ 5ÃÊ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "17" , ¹®ÀÚ¿­ ±æÀÌ: "5" , ¹®ÀÚ¿­: "d d d" from server "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 45ºÐ 5ÃÊ [send] "ÀüÃ¼ »çÀÌÁî: "17" , ¹®ÀÚ¿­ ±æÀÌ: "5" , ¹®ÀÚ¿­: "d d d" from client "1" ¹øÂ° Client
+2022³â 12¿ù 1ÀÏ 12½Ã 45ºÐ 5ÃÊ closed client: 1 ¹øÂ° Client
+Enter PORT number (3587) :ÃÊ [bind] from server
+[listen] from server
+Enter PORT number (3587) : ÃÊ [bind] from server
+ [listen] from server
+Enter PORT number (3587) : ÃÊ [bind] from server
+ [listen] from server
+ [accept] from server
+ 1 ¹øÂ° Client
+ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvccccccccccc" from server "1" ¹øÂ° Client
+ [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvccccccccccc" from client "1" ¹øÂ° Client
+ closed client: 1 ¹øÂ° Client
+Enter PORT number (3587) : ÃÊ [bind] from server
+ [listen] from server
+ [accept] from server
+ 1 ¹øÂ° Client
+ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvccccccccccc" from server "1" ¹øÂ° Client
+ [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvccccccccccc" from client "1" ¹øÂ° Client
+Enter PORT number (3587) : [bind] from server
+ [listen] from server
+ [accept] from server
+ 1 ¹øÂ° Client
+ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvccccccccccc" from server "1" ¹øÂ° Client
+ [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvccccccccccc" from client "1" ¹øÂ° Client
+ closed client: 1 ¹øÂ° Client
+ [accept] from server
+ 2 ¹øÂ° Client
+ [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "2" ¹øÂ° Client
+ [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "2" ¹øÂ° Client
+ closed client: 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 35871 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvccccccccccc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvccccccccccc" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "12" , ¹®ÀÚ¿­ ±æÀÌ: "0" , ¹®ÀÚ¿­: "" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "12" , ¹®ÀÚ¿­ ±æÀÌ: "0" , ¹®ÀÚ¿­: "" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 3 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 3 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 4 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 4 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcdcccccc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "ô" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcdcccccc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "ô" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcdcccccc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "ô" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 3 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcdcccccc" from server "3" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "ô" from client "3" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcdcccccc" from server "3" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "ô" from client "3" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 3 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 4 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcdcccccc" from server "4" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "ô" from client "4" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 4 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 5 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcdcccccc" from server "5" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "ô" from client "5" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcdcccccc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "ô" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcdcccccc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "ô" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcdcccccc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcdcccccc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "ô" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcdcccccc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcdcccccc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcdcccccc" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcdcccccc" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcdcccccc" from client "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 3 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 3 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcccccccccvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcccccccccvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 3 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 3 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 4 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 4 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 5 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 5 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 6 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 6 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 7 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 7 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 8 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 8 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 9 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 9 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 10 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 10 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 11 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 11 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 12 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 12 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 13 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 13 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 14 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 14 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 15 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 15 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 16 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 16 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 17 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 17 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 18 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 18 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 19 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 19 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 20 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 20 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 21 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 21 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 22 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 22 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 23 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 23 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 24 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 24 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 25 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 25 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 26 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 26 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 27 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 27 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 28 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 28 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 29 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 29 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 30 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 30 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 31 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 31 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 32 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 32 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 33 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 33 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 34 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 34 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 35 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 35 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 36 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 36 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 37 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 37 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 38 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 38 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 39 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 39 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 40 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "40" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "40" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 40 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcccccccccvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcccccccccvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 3 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcccccccccvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcccccccccvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "14" , ¹®ÀÚ¿­ ±æÀÌ: "2" , ¹®ÀÚ¿­: "hi" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "14" , ¹®ÀÚ¿­ ±æÀÌ: "2" , ¹®ÀÚ¿­: "hi" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "how" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "how" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "are" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "are" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "you" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "you" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "12" , ¹®ÀÚ¿­ ±æÀÌ: "0" , ¹®ÀÚ¿­: "" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "12" , ¹®ÀÚ¿­ ±æÀÌ: "0" , ¹®ÀÚ¿­: "" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "12" , ¹®ÀÚ¿­ ±æÀÌ: "0" , ¹®ÀÚ¿­: "" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "12" , ¹®ÀÚ¿­ ±æÀÌ: "0" , ¹®ÀÚ¿­: "" from client "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 3 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "3" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "3" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1011" , ¹®ÀÚ¿­ ±æÀÌ: "999" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcccccccccvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv" from server "3" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1011" , ¹®ÀÚ¿­ ±æÀÌ: "999" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcccccccccvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv" from client "3" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1011" , ¹®ÀÚ¿­ ±æÀÌ: "999" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcccccccccvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv" from server "3" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1011" , ¹®ÀÚ¿­ ±æÀÌ: "999" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcccccccccvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv" from client "3" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "14" , ¹®ÀÚ¿­ ±æÀÌ: "2" , ¹®ÀÚ¿­: "bc" from server "3" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "14" , ¹®ÀÚ¿­ ±æÀÌ: "2" , ¹®ÀÚ¿­: "bc" from client "3" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 3 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 4 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 4 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 5 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "12" , ¹®ÀÚ¿­ ±æÀÌ: "0" , ¹®ÀÚ¿­: "" from server "5" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "12" , ¹®ÀÚ¿­ ±æÀÌ: "0" , ¹®ÀÚ¿­: "" from client "5" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 5 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 6 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "6" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "6" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "26" , ¹®ÀÚ¿­ ±æÀÌ: "14" , ¹®ÀÚ¿­: "hi how are you" from server "6" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "26" , ¹®ÀÚ¿­ ±æÀÌ: "14" , ¹®ÀÚ¿­: "hi how are you" from client "6" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcccccccccvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv" from server "6" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcccccccccvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv" from client "6" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 6 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 7 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 7 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 8 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "-858993664" , result: "-858993663" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "-858993664" , result: "-858993663" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "-858993664" , result: "-858993663" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "-858993664" , result: "-858993663" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "-858993664" , result: "-858993663" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "-858993664" , result: "-858993663" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "2" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "2" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "1" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "1" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "2" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "2" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 3 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcccccccccvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv" from server "3" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcccccccccvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv" from client "3" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "26" , ¹®ÀÚ¿­ ±æÀÌ: "14" , ¹®ÀÚ¿­: "Hi How Are you" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "26" , ¹®ÀÚ¿­ ±æÀÌ: "14" , ¹®ÀÚ¿­: "Hi How Are you" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 3 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 4 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 5 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 4 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 5 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 6 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 7 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 7 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 6 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 8 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 9 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 9 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 10 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 8 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 11 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 10 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 12 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "sds" from server "12" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "sds" from client "12" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 12 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 11 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 13 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 14 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "13" , ¹®ÀÚ¿­ ±æÀÌ: "1" , ¹®ÀÚ¿­: "a" from server "13" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "13" , ¹®ÀÚ¿­ ±æÀÌ: "1" , ¹®ÀÚ¿­: "a" from client "13" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "13" , ¹®ÀÚ¿­ ±æÀÌ: "1" , ¹®ÀÚ¿­: "b" from server "14" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "13" , ¹®ÀÚ¿­ ±æÀÌ: "1" , ¹®ÀÚ¿­: "b" from client "14" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 13 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 14 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "14" , ¹®ÀÚ¿­ ±æÀÌ: "2" , ¹®ÀÚ¿­: "dd" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "14" , ¹®ÀÚ¿­ ±æÀÌ: "2" , ¹®ÀÚ¿­: "dd" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 3 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 3 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 4 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 5 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 4 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 6 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "6" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "6" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 6 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "1bc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "1bc" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "1" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "1" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "1" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "1" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "2" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "2" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "17" , ¹®ÀÚ¿­ ±æÀÌ: "5" , ¹®ÀÚ¿­: "Hello" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "17" , ¹®ÀÚ¿­ ±æÀÌ: "5" , ¹®ÀÚ¿­: "Hello" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 3 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 3 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 4 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "4" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "4" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "4" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "4" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 4 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 5 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "5" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "5" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 5 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 6 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 6 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 7 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "7" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "7" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 7 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 8 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 8 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 9 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 9 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 10 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 10 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 11 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "11" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "11" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 11 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 12 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "12" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "12" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 12 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 13 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "13" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "13" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 13 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 14 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "14" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "14" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 14 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "1" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "1" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "2" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "2" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 3 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "3" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "3" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 3 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 4 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "4" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "4" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "26" , ¹®ÀÚ¿­ ±æÀÌ: "14" , ¹®ÀÚ¿­: "hi who are yoy" from server "4" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "26" , ¹®ÀÚ¿­ ±æÀÌ: "14" , ¹®ÀÚ¿­: "hi who are yoy" from client "4" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "12" , ¹®ÀÚ¿­ ±æÀÌ: "0" , ¹®ÀÚ¿­: "" from server "4" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "12" , ¹®ÀÚ¿­ ±æÀÌ: "0" , ¹®ÀÚ¿­: "" from client "4" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 4 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "24" , ¹®ÀÚ¿­ ±æÀÌ: "12" , ¹®ÀÚ¿­: "hi how are t" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "24" , ¹®ÀÚ¿­ ±æÀÌ: "12" , ¹®ÀÚ¿­: "hi how are t" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "26" , ¹®ÀÚ¿­ ±æÀÌ: "14" , ¹®ÀÚ¿­: "hi how are you" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "26" , ¹®ÀÚ¿­ ±æÀÌ: "14" , ¹®ÀÚ¿­: "hi how are you" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "avc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "avc" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "22" , ¹®ÀÚ¿­ ±æÀÌ: "10" , ¹®ÀÚ¿­: "hhi how ar" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "22" , ¹®ÀÚ¿­ ±æÀÌ: "10" , ¹®ÀÚ¿­: "hhi how ar" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 3 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "3" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "3" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 3 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 4 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" from server "4" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" from client "4" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "4" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "4" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "18" , ¹®ÀÚ¿­ ±æÀÌ: "6" , ¹®ÀÚ¿­: "hi wha" from server "4" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "18" , ¹®ÀÚ¿­ ±æÀÌ: "6" , ¹®ÀÚ¿­: "hi wha" from client "4" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 4 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 5 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 5 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 6 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "6" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "6" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 6 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 7 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "7" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "7" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "1" , result: "1" from server "7" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "1" , result: "1" from server "7" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "2" , result: "1" from server "7" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "2" , result: "1" from server "7" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 7 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 8 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "8" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "8" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" from server "8" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" from client "8" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "19" , ¹®ÀÚ¿­ ±æÀÌ: "7" , ¹®ÀÚ¿­: "hi s f " from server "8" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "19" , ¹®ÀÚ¿­ ±æÀÌ: "7" , ¹®ÀÚ¿­: "hi s f " from client "8" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 8 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 9 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "1" , result: "1" from server "9" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "1" , result: "1" from server "9" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 9 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "abc" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "1012" , ¹®ÀÚ¿­ ±æÀÌ: "1000" , ¹®ÀÚ¿­: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "17" , ¹®ÀÚ¿­ ±æÀÌ: "5" , ¹®ÀÚ¿­: "d f g" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "17" , ¹®ÀÚ¿­ ±æÀÌ: "5" , ¹®ÀÚ¿­: "d f g" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "1" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "1" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "dss" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "dss" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "18" , ¹®ÀÚ¿­ ±æÀÌ: "6" , ¹®ÀÚ¿­: "fd d d" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "18" , ¹®ÀÚ¿­ ±æÀÌ: "6" , ¹®ÀÚ¿­: "fd d d" from client "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "1" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [bind] from server
+  Æ÷Æ® ¹øÈ£: 3587, [listen] from server
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "1" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "1" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "2" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "2" , result: "1" from server "1" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 1 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "and" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "15" , ¹®ÀÚ¿­ ±æÀÌ: "3" , ¹®ÀÚ¿­: "and" from client "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÀüÃ¼ »çÀÌÁî : "17" , ¹®ÀÚ¿­ ±æÀÌ: "5" , ¹®ÀÚ¿­: "d d d" from server "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [send] "ÀüÃ¼ »çÀÌÁî: "17" , ¹®ÀÚ¿­ ±æÀÌ: "5" , ¹®ÀÚ¿­: "d d d" from client "2" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 2 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [accept] from server
+  Æ÷Æ® ¹øÈ£: 3587 À¯Àú 3 ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "3" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "0" , result: "1" from server "3" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "1" , result: "1" from server "3" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "1" , result: "1" from server "3" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [recv] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "2" , result: "1" from server "3" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, [Send] msg received. ÃÑ ¹öÆÛ »çÀÌÁî : "10" , Code: "2" , result: "1" from server "3" ¹øÂ° Client
+  Æ÷Æ® ¹øÈ£: 3587, closed client : 3 ¹øÂ° Client
