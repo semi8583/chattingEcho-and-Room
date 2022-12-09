@@ -4,18 +4,19 @@
 class C2S_ROOM_ENTER_REQ
 {
 private:
-	int totalBufferSize;
-	int code;
-	int result;
-	char msg[ROOM_REQ_BUF_SIZE] = {0, };
+	int size;
+	int code = 0;
+	int roomNo = 0;
+	int userIdx;
+	char msg[ROOM_REQ_BUF_SIZE] = { 0, };
 public:
-	char* Serialize(int _totalBufferSize, int _code, int _result);
+	char* Serialize(int _size, int _code, int _roomNo, int _userIdx);
 	void Deserialize(char* _String);
 
-	int GetTotalBufferSize();
+	int GetSize();
 	int GetCode();
-	void SetCode(int _code);
-	int GetResult();
+	int GetRoomNo();
+	void SetRoomNo(int _roomNo);
+	int GetUserIdx();
 	char* GetMsg();
 };
-

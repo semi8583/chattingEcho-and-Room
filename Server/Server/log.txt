@@ -999,3 +999,1099 @@ Enter PORT number (3587) : [bind] from server
   포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "10" , Code: "2" , result: "1" from server "3" 번째 Client
   포트 번호: 3587, [Send] msg received. 총 버퍼 사이즈 : "10" , Code: "2" , result: "1" from server "3" 번째 Client
   포트 번호: 3587, closed client : 3 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "10" , Code: "0" , result: "1" from server "1" 번째 Client
+  포트 번호: 3587, [Send] msg received. 총 버퍼 사이즈 : "10" , Code: "0" , result: "1" from server "1" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "10" , Code: "1" , result: "1" from server "1" 번째 Client
+  포트 번호: 3587, [Send] msg received. 총 버퍼 사이즈 : "10" , Code: "1" , result: "1" from server "1" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "10" , Code: "2" , result: "1" from server "1" 번째 Client
+  포트 번호: 3587, [Send] msg received. 총 버퍼 사이즈 : "10" , Code: "2" , result: "1" from server "1" 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "13" , 문자열 길이: "1" , 문자열: "a" from server "2" 번째 Client
+  포트 번호: 3587, [send] "전체 사이즈: "13" , 문자열 길이: "1" , 문자열: "a" from client "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "13" , 문자열 길이: "1" , 문자열: "d" from server "2" 번째 Client
+  포트 번호: 3587, [send] "전체 사이즈: "13" , 문자열 길이: "1" , 문자열: "d" from client "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "13" , 문자열 길이: "1" , 문자열: "e" from server "2" 번째 Client
+  포트 번호: 3587, [send] "전체 사이즈: "13" , 문자열 길이: "1" , 문자열: "e" from client "2" 번째 Client
+  포트 번호: 3587, closed client : 2 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+포트 파일이 없습니다 
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "0" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "0" , Result(1: 방 입장 성공, 0: 방 입장 실패): "0" , RoomNo: "0" from server "0" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "1" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "1" 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "0" from server "1" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "0" from server "1" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, closed client : 3 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "-858993663" , 문자열 길이: "1" , 문자열: "a" from server "0" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "-858993663" , 문자열 길이: "1" , 문자열: "a" from server "0" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "-858993663" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "-858993663" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "-858993663" , 문자열 길이: "1" , 문자열: "a" from server "2" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "-858993663" , 문자열 길이: "1" , 문자열: "a" from server "2" 번째 Client
+  포트 번호: 3587, closed client : 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "-858993663" , 문자열 길이: "1" , 문자열: "a" from server "3" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "-858993663" , 문자열 길이: "1" , 문자열: "a" from server "3" 번째 Client
+  포트 번호: 3587, closed client : 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "-858993663" , 문자열 길이: "1" , 문자열: "a" from server "4" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "-858993663" , 문자열 길이: "1" , 문자열: "a" from server "4" 번째 Client
+  포트 번호: 3587, closed client : 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "-858993663" , 문자열 길이: "1" , 문자열: "a" from server "5" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "-858993663" , 문자열 길이: "1" , 문자열: "a" from server "5" 번째 Client
+  포트 번호: 3587, closed client : 5 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 6 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "-858993663" , 문자열 길이: "1" , 문자열: "a" from server "6" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "-858993663" , 문자열 길이: "1" , 문자열: "a" from server "6" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "1" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "1" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "1" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "1" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "1" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "1" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "1" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "1" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "1" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "1014" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "1" , 문자열 길이: "1000" , 문자열: "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "1014" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "1" , 문자열 길이: "1000" , 문자열: "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc" from server "1" 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "2" 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "4" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "4" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "2" 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "3" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "3" 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "4" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "4" 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, closed client : 2 번째 Client
+  포트 번호: 3587, closed client : 3 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "4" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "4" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "1" , 문자열 길이: "1" , 문자열: "a" from server "2" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "1" , 문자열 길이: "1" , 문자열: "a" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "1" , 문자열 길이: "1" , 문자열: "b" from server "4" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "1" , 문자열 길이: "1" , 문자열: "b" from server "4" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "1" , 문자열 길이: "1" , 문자열: "c" from server "3" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "15" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "1" , 문자열 길이: "1" , 문자열: "c" from server "3" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "5" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "5" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "5" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "5" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "5" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 6 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 7 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "5" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "5" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "11" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "11" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "11" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "5" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "5" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "13" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "3" , 문자열: "abc" from server "2" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "13" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "3" , 문자열: "abc" from server "2" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "5" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "5" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "11" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1" , 문자열: "a" from server "4" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "11" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1" , 문자열: "a" from server "4" 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "5" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "5" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "11" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "11" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "5" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "5" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "11" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1" , 문자열: "a" from server "5" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "11" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1" , 문자열: "a" from server "5" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "5" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "11" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "5" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "11" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1" , 문자열: "a" from server "3" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "11" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "11" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "11" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "11" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "7" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "0" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "7" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "0" , RoomNo: "-1" from server "2" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "7" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "0" , RoomNo: "-1" from server "3" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "7" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "0" , RoomNo: "-1" from server "3" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "7" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "0" , RoomNo: "-1" from server "4" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "7" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "0" , RoomNo: "-1" from server "4" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "7" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "0" , RoomNo: "-1" from server "5" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "7" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "0" , RoomNo: "-1" from server "5" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "11" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "11" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "11" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1" , 문자열: "b" from server "3" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "11" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1" , 문자열: "b" from server "3" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "11" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1" , 문자열: "c" from server "4" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "11" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1" , 문자열: "c" from server "4" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "11" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1" , 문자열: "d" from server "2" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "11" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1" , 문자열: "d" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "11" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1" , 문자열: "e" from server "5" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "11" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1" , 문자열: "e" from server "5" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "1010" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1000" , 문자열: "fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "1010" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "1000" , 문자열: "fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc" from server "1" 번째 Client
+  포트 번호: 3587, closed client : 5 번째 Client
+  포트 번호: 3587, closed client : 4 번째 Client
+  포트 번호: 3587, closed client : 3 번째 Client
+  포트 번호: 3587, closed client : 4 번째 Client
+  포트 번호: 3587, 바인드 함수가 정상적으로 작동되지 못하였습니다.
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, 리슨 함수가 제대로 작동되지 못하였습니다.
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "7" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "0" , RoomNo: "-1" from server "0" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "7" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "0" , RoomNo: "-1" from server "0" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "7" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "0" , RoomNo: "-1" from server "0" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "7" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "0" , RoomNo: "-1" from server "0" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "7" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "0" , RoomNo: "-1" from server "0" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "7" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "0" , RoomNo: "-1" from server "0" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "7" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "0" , RoomNo: "-1" from server "0" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "7" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "0" , RoomNo: "-1" from server "0" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "20" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "10" , 문자열: "sdfdsdfsdf" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "20" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "10" , 문자열: "sdfdsdfsdf" from server "1" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "14" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "4" , 문자열: "dfdf" from server "5" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "14" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "4" , 문자열: "dfdf" from server "5" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "31" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "21" , 문자열: "fgfgfffffffffffffffff" from server "5" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "31" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "21" , 문자열: "fgfgfffffffffffffffff" from server "5" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "23" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "13" , 문자열: "fffffffffffff" from server "4" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "23" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , Result(1: 전송 성공, 0: 전송 실패): "0" , 문자열 길이: "13" , 문자열: "fffffffffffff" from server "4" 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, closed client : 3 번째 Client
+  포트 번호: 3587, closed client : 2 번째 Client
+  포트 번호: 3587, closed client : 4 번째 Client
+  포트 번호: 3587, closed client : 5 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, closed client : 2 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "-858993460" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "0" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "1" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "-858993460" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "1" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "1" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "-858993460" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "1" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "-858993460" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "1" 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, closed client : 2 번째 Client
+  포트 번호: 3587, closed client : 0 번째 Client
+  포트 번호: 3587, closed client : 2 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, closed client : 2 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, closed client : 2 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "17" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1" , 문자열: "" from server "0" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "17" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1" , 문자열: "" from server "0" 번째 Client
+  포트 번호: 3587, closed client : 0 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "1" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "1" 번째 Client
+  포트 번호: 3587, closed client : 2 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "1" 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "1" 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "5" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "5" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "19" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "3" , 문자열: "" from server "0" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "19" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "3" , 문자열: "" from server "0" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "1016" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1000" , 문자열: "" from server "0" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "1016" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1000" , 문자열: "" from server "0" 번째 Client
+  포트 번호: 3587, 바인드 함수가 정상적으로 작동되지 못하였습니다.
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, 리슨 함수가 제대로 작동되지 못하였습니다.
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "5" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "5" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "1" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "1" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "19" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "3" , 문자열: "abc" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "19" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "3" , 문자열: "abc" from server "1" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "18" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "2" , 문자열: "aa" from server "2" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "18" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "2" , 문자열: "aa" from server "2" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "17" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "17" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "17" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "17" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, closed client : 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "17" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "17" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "17" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "17" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "17" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "17" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "17" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "19" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "3" , 문자열: "asd" from server "2" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "19" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "3" , 문자열: "asd" from server "2" 번째 Client
+  포트 번호: 3587, 바인드 함수가 정상적으로 작동되지 못하였습니다.
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, 리슨 함수가 제대로 작동되지 못하였습니다.
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
