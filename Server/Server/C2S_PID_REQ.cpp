@@ -15,8 +15,8 @@ void C2S_PID_REQ::Deserialize(char* _inputString)
 	memcpy(&this->size, &(_inputString[0]), sizeof(int));
 	memcpy(&this->code, &(_inputString[4]), sizeof(int));
 	memcpy(&this->pid, &(_inputString[8]), sizeof(int));
-	for (int i = 0; i < this->size; i++)
-		this->msg[i] = _inputString[i];
+	//for (int i = 0; i < this->size; i++)
+	//	this->msg[i] = _inputString[i];
 }
 int C2S_PID_REQ::GetSize()
 {

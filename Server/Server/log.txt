@@ -2095,3 +2095,379 @@ Enter PORT number (3587) : [bind] from server
   포트 번호: 3587, [listen] from server
   포트 번호: 3587, [accept] from server
   포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "1" 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, closed client : 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, closed client : 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "4" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "4" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "4" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "4" 번째 Client
+  포트 번호: 3587, closed client : 4 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "1" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "1" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "1" 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "2" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "2" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "2" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "2" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "2" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "2" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "2" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "2" 번째 Client
+  포트 번호: 3587, closed client : 2 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "19" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "3" , 문자열: "asf" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "19" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "3" , 문자열: "asf" from server "1" 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "32" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "16" , 문자열: "qqqqqqqqqqqqqqqq" from server "2" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "32" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "16" , 문자열: "qqqqqqqqqqqqqqqq" from server "2" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "1016" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1000" , 문자열: "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb" from server "0" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "1016" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1000" , 문자열: "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb" from server "0" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "1016" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1000" , 문자열: "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb" from server "0" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "1016" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1000" , 문자열: "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb" from server "0" 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "17" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "17" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1" , 문자열: "a" from server "1" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "1016" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1000" , 문자열: "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "1016" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1000" , 문자열: "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb" from server "1" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, closed client : 2 번째 Client
+  포트 번호: 3587, closed client : 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 6 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 7 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 8 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "5" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "5" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "6" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "6" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "8" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "8" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "7" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "7" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "1016" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1000" , 문자열: "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb" from server "4" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "1016" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1000" , 문자열: "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb" from server "4" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "1016" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1000" , 문자열: "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb" from server "6" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "1016" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1000" , 문자열: "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb" from server "6" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "17" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1" , 문자열: "2" from server "8" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "17" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1" , 문자열: "2" from server "8" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "1016" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1000" , 문자열: "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb" from server "6" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "1016" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1000" , 문자열: "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb" from server "6" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "1" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "1" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, closed client : 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, closed client : 4 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "1" 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "2" 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "1" 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client
+  포트 번호: 3587, closed client : 2 번째 Client
+  포트 번호: 3587, [bind] from server
+  포트 번호: 3587, [listen] from server
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 1 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 2 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 3 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 4 번째 Client
+  포트 번호: 3587, [accept] from server
+  포트 번호: 3587 유저 5 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "1" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "-1" from server "1" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "1" from server "3" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "4" 번째 Client
+
+  포트 번호: 3587, [recv] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "5" 번째 Client
+  포트 번호: 3587, [send] msg received. 총 버퍼 사이즈 : "16" , Code(1: 채팅 에코, 2: 채팅 룸 입장): "2" , Result(1: 방 입장 성공, 0: 방 입장 실패): "1" , RoomNo: "2" from server "5" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "1016" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1000" , 문자열: "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb" from server "2" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "1016" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1000" , 문자열: "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb" from server "2" 번째 Client
+  포트 번호: 3587, [recv] msg received. 전체 사이즈 : "1016" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1000" , 문자열: "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb" from server "4" 번째 Client
+  포트 번호: 3587, [send] msg received. 전체 사이즈 : "1016" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): "1" , 문자열 길이: "1000" , 문자열: "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb" from server "4" 번째 Client
+  포트 번호: 3587, closed client : 1 번째 Client

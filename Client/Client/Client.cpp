@@ -47,7 +47,7 @@ void Char_Recv()//클라이언트에서 문자열 입력을 받는 도중에 서
 	while (ThreadStop) // 소켓이 돌고 있으므로 소켓 먼저 종료 시키고 스레드 종료 시키면 정상 종료
 	{
 		char tmpBuffer[BUF_SIZE] = { 0, };
-		if (recv(hSocket, tmpBuffer, BUF_SIZE, 0)) //recv(소켓, 수신 정보를 담을 배열주소, 그 배열의 크기, flag)
+ 		if (recv(hSocket, tmpBuffer, BUF_SIZE, 0)) //recv(소켓, 수신 정보를 담을 배열주소, 그 배열의 크기, flag)
 		{ //  flags의 값이 0이면 일반 데이터를 수신
 		  //대상 소켓으로부터 보내온 정보를 받아주는 역할
 		  //보내준 데이터가 없다면 여기에서 받을 때까지 계속 대기 상태에 있음
@@ -94,6 +94,10 @@ void Char_Recv()//클라이언트에서 문자열 입력을 받는 도중에 서
 			{
 				c2sPidReq.Deserialize(tmpBuffer);
 				cout << "\n유저 번호: " << c2sPidReq.GetPid() << endl;
+			}
+			else if (tmpCode == 4)
+			{
+				c2sRoomReq.Deserialize(tmpBuffer);
 			}
 		}
 		memset(tmpBuffer, 0, BUF_SIZE);
@@ -190,8 +194,8 @@ void ChattingRoom()
 		char inputBuffer[BUF_SIZE] = { 0, };
 		int roomNo;
 		cin.getline(inputBuffer, 10);
-		if (strlen(inputBuffer) == 0)
-			roomNo = -1; // 방 번호 입력 안할시 -1번 방 선택
+		if (strlen(inputBuffer) == 0 || atoi(inputBuffer) == -1)
+			roomNo = 0; // 방 번호 입력 안할시 -1번 방 선택
 		else
 			roomNo = atoi(inputBuffer); // 1번방 또는 2번 방
 
@@ -201,22 +205,30 @@ void ChattingRoom()
 			ThreadStop = false;
 			break;
 		}
-		else if (roomNo == -1) // -1 번 방 
+		else // 방 번호 서버에서 확인
 		{
-			c2sRoomReq.SetRoomNo(0);
-			cout << "[ACK] -1번방 선택!" << endl;
-		}
-		else if (roomNo == 1 || roomNo == 2)// 1번방 또는 2번 방
-		{
-			c2sRoomReq.SetRoomNo(atoi(inputBuffer));
-			cout << "[ACK] " << inputBuffer << "번방 선택!" << endl;
-		}
-		else // 없는 방 번호 일 때 
-		{
-			c2sRoomReq.SetRoomNo(4);
-			cout << "[ACK] 없는 방 입니다. 방을 다시 입력 하세요" << endl;
-			cout << "\n입장할 채팅 방 번호를 입력 하세요!: (입력 안할시 default: -1, -2 입력시 종료) ";
-			continue;
+			c2sRoomReq.Serialize(16, 4, roomNo, c2sPidReq.GetPid());
+			char tmpBuffer[BUF_SIZE] = { 0, };
+			memset(tmpBuffer, 0, BUF_SIZE);
+			for (int i = 0; i < 16; i++)
+				tmpBuffer[i] = c2sRoomReq.GetMsg()[i];
+			send(hSocket, tmpBuffer, BUF_SIZE, 0);
+			c2sRoomReq.SetRoomNo(-100);
+			Sleep(1000);
+
+			int tmpRoomNo;
+
+			if (c2sRoomReq.GetRoomNo() == -100)
+			{
+				cout << "[ACK] 없는 방 입니다. 방을 다시 입력 하세요" << endl;
+				cout << "\n입장할 채팅 방 번호를 입력 하세요!: (입력 안할시 default: -1, -2 입력시 종료) ";
+				continue;
+			}
+			else
+			{
+				tmpRoomNo = c2sRoomReq.GetRoomNo() == 0 ? -1 : c2sRoomReq.GetRoomNo();
+				cout << "[ACK] " << tmpRoomNo << "번방 선택!" << endl;
+			}
 		}
 
 		c2sRoomReq.Serialize(16, MenuNum, c2sRoomReq.GetRoomNo(), c2sPidReq.GetPid()); // 문자열 입력 성공
@@ -225,6 +237,7 @@ void ChattingRoom()
 		for (int i = 0; i < 16; i++)
 			tmpBuffer[i] = c2sRoomReq.GetMsg()[i];
 		c2sRoomReq.Deserialize(tmpBuffer);
+		roomNo = roomNo == 0 ? -1 : roomNo;
 		if (send(hSocket, c2sRoomReq.GetMsg(), BUF_SIZE, 0))// 입력 받은 문자를 서버에 보냄
 			cout << "[ACK] [send] \"" << "총 버퍼 사이즈: \"" << c2sRoomReq.GetSize() << "\" , code(채팅 에코:1, 채팅 룸:2): \"" << c2sRoomReq.GetCode() << "\" , room No: \"" << roomNo  << "\" from " << c2sRoomReq .GetUserIdx() <<"번째 client 채팅 방 입장 성공" << endl; // 출력할땐 문자열만 출력되게
 		else // 서버에 보내는 것을 실패 했을 때
