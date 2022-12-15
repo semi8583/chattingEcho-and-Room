@@ -6,13 +6,15 @@ private:
 	int size;
 	int code = 0;
 	int pid;
-	char msg[4] = { 0, };
 public:
 	char* Serialize(int _size, int _code, int _pid);
-	void Deserialize(char* _inputString);
+	void Deserialize(char* _buffer);
+
 	int GetSize();
+	void SetSize(int _size);
 	int GetCode();
+	void SetCode(int _code);
 	int GetPid();
-	char* GetMsg();
+	void SetPid(int _pid);
 };
 

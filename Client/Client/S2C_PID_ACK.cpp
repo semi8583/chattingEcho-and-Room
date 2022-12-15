@@ -1,5 +1,5 @@
-#include "C2S_PID_REQ.h"
-char *C2S_PID_REQ::Serialize(int _size, int _code, int _pid)
+#include "S2C_PID_ACK.h"
+char* S2C_PID_ACK::Serialize(int _size, int _code, int _pid)
 {
 	char* newBuffer = new char[_size];
 
@@ -11,33 +11,33 @@ char *C2S_PID_REQ::Serialize(int _size, int _code, int _pid)
 	return newBuffer;
 }
 
-void C2S_PID_REQ::Deserialize(char* _buffer)
+void S2C_PID_ACK::Deserialize(char* _buffer)
 {
 	memcpy(&this->size, &(_buffer[0]), sizeof(int));
 	memcpy(&this->code, &(_buffer[4]), sizeof(int));
 	memcpy(&this->pid, &(_buffer[8]), sizeof(int));
 }
-int C2S_PID_REQ::GetSize()
+int S2C_PID_ACK::GetSize()
 {
 	return this->size;
 }
-void C2S_PID_REQ::SetSize(int _size)
+void S2C_PID_ACK::SetSize(int _size)
 {
 	this->size = _size;
 }
-int C2S_PID_REQ::GetCode()
+int S2C_PID_ACK::GetCode()
 {
 	return this->code;
 }
-void C2S_PID_REQ::SetCode(int _code)
+void S2C_PID_ACK::SetCode(int _code)
 {
 	this->code = _code;
 }
-int C2S_PID_REQ::GetPid()
+int S2C_PID_ACK::GetPid()
 {
 	return this->pid;
 }
-void C2S_PID_REQ::SetPid(int _pid)
+void S2C_PID_ACK::SetPid(int _pid)
 {
 	this->pid = _pid;
 }

@@ -1,6 +1,6 @@
 #pragma once
 #include <iostream>// memset, strlen 사용 하기 위해 필요
-class C2S_PID_REQ
+class S2C_PID_ACK
 {
 private:
 	int size;

@@ -1,38 +1,48 @@
 #include "S2C_ROOM_ENTER_ACK.h"
 char* S2C_ROOM_ENTER_ACK::Serialize(int _size, int _code, int _roomNo, int _result)
 {
-	memset(this->msg, 0, ROOM_ACK_BUF_SIZE); // 기존 멤버 변수 초기화
+	char* newBuffer = new char[_size];
 
-	memcpy(&(this->msg[0]), &_size, sizeof(_size));
-	memcpy(&(this->msg[4]), &_code, sizeof(_code));
-	memcpy(&(this->msg[8]), &_roomNo, sizeof(_roomNo));
-	memcpy(&(this->msg[12]), &_result, sizeof(_result));
+	memset(newBuffer, 0, _size);
 
-	return this->msg;
+	memcpy(&(newBuffer[0]), &_size, sizeof(_size));
+	memcpy(&(newBuffer[4]), &_code, sizeof(_code));
+	memcpy(&(newBuffer[8]), &_roomNo, sizeof(_roomNo));
+	memcpy(&(newBuffer[12]), &_result, sizeof(_result));
+
+	return newBuffer;
 }
-void S2C_ROOM_ENTER_ACK::Deserialize(char* _string)
+void S2C_ROOM_ENTER_ACK::Deserialize(char* _buffer)
 {
-	memset(this->msg, 0, ROOM_ACK_BUF_SIZE); // 기존 멤버 변수 초기화
-
-	memcpy(&this->size, &(_string[0]), sizeof(int));
-	memcpy(&this->code, &(_string[4]), sizeof(int));
-	memcpy(&this->roomNo, &(_string[8]), sizeof(int));
-	memcpy(&this->result, &(_string[12]), sizeof(int));
-	for (int i = 0; i < this->size; i++)
-		this->msg[i] = _string[i];
+	memcpy(&this->size, &(_buffer[0]), sizeof(int));
+	memcpy(&this->code, &(_buffer[4]), sizeof(int));
+	memcpy(&this->roomNo, &(_buffer[8]), sizeof(int));
+	memcpy(&this->result, &(_buffer[12]), sizeof(int));
 }
 
 int S2C_ROOM_ENTER_ACK::GetSize()
 {
 	return this->size;
 }
+void S2C_ROOM_ENTER_ACK::SetSize(int _size)
+{
+	this->size = _size;
+}
 int S2C_ROOM_ENTER_ACK::GetCode()
 {
 	return this->code;
 }
+void S2C_ROOM_ENTER_ACK::SetCode(int _code)
+{
+	this->code = _code;
+}
 int S2C_ROOM_ENTER_ACK::GetRoomNo()
 {
 	return this->roomNo;
+}
+void S2C_ROOM_ENTER_ACK::SetRoomNo(int _roomNo)
+{
+	this->roomNo = _roomNo;
 }
 int S2C_ROOM_ENTER_ACK::GetResult()
 {
@@ -41,9 +51,4 @@ int S2C_ROOM_ENTER_ACK::GetResult()
 void S2C_ROOM_ENTER_ACK::SetResult(int _result)
 {
 	this->result = _result;
-	memcpy(&(this->msg[12]), &this->result, sizeof(_result));
-}
-char* S2C_ROOM_ENTER_ACK::GetMsg()
-{
-	return this->msg;
 }

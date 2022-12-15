@@ -8,13 +8,15 @@ private:
 	int code = 0;
 	int roomNo = 0;
 	int userIdx;
-	char msg[ROOM_NTY_BUF_SIZE] = { 0, };
 public:
 	char* Serialize(int _size, int _code, int _roomNo, int _userIdx);
-	void Deserialize(char* _String);
+	void Deserialize(char* _buffer);
 	int GetSize();
+	void SetSize(int _size);
 	int GetCode();
+	void SetCode(int _code);
 	int GetRoomNo();
+	void SetRoomNo(int _roomNo);
 	int GetUserIdx();
-	char* GetMsg();
+	void SetUserIdx(int _userIdx);
 };

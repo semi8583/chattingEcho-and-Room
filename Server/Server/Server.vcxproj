@@ -149,6 +149,7 @@
     <ClCompile Include="logger.cpp" />
     <ClCompile Include="S2C_CHATECHO_ACK.cpp" />
     <ClCompile Include="S2C_CHATECHO_NTY.cpp" />
+    <ClCompile Include="S2C_PID_ACK.cpp" />
     <ClCompile Include="S2C_ROOM_ENTER_ACK.cpp" />
     <ClCompile Include="S2C_ROOM_ENTER_NTY.cpp" />
     <ClCompile Include="Server.cpp" />
@@ -160,6 +161,7 @@
     <ClInclude Include="logger.h" />
     <ClInclude Include="S2C_CHATECHO_ACK.h" />
     <ClInclude Include="S2C_CHATECHO_NTY.h" />
+    <ClInclude Include="S2C_PID_ACK.h" />
     <ClInclude Include="S2C_ROOM_ENTER_ACK.h" />
     <ClInclude Include="S2C_ROOM_ENTER_NTY.h" />
   </ItemGroup>

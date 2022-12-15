@@ -36,6 +36,9 @@
     <ClCompile Include="S2C_CHATECHO_NTY.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="S2C_PID_ACK.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="S2C_ROOM_ENTER_ACK.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -50,6 +53,9 @@
     <ClInclude Include="C2S_CHATECHO_REQ.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="C2S_PID_REQ.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
     <ClInclude Include="C2S_ROOM_ENTER_REQ.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
@@ -59,13 +65,13 @@
     <ClInclude Include="S2C_CHATECHO_NTY.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="S2C_PID_ACK.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
     <ClInclude Include="S2C_ROOM_ENTER_ACK.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="S2C_ROOM_ENTER_NTY.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="C2S_PID_REQ.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

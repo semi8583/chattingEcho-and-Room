@@ -145,6 +145,7 @@
     <ClCompile Include="Client.cpp" />
     <ClCompile Include="S2C_CHATECHO_ACK.cpp" />
     <ClCompile Include="S2C_CHATECHO_NTY.cpp" />
+    <ClCompile Include="S2C_PID_ACK.cpp" />
     <ClCompile Include="S2C_ROOM_ENTER_ACK.cpp" />
     <ClCompile Include="S2C_ROOM_ENTER_NTY.cpp" />
   </ItemGroup>
@@ -154,6 +155,7 @@
     <ClInclude Include="C2S_ROOM_ENTER_REQ.h" />
     <ClInclude Include="S2C_CHATECHO_ACK.h" />
     <ClInclude Include="S2C_CHATECHO_NTY.h" />
+    <ClInclude Include="S2C_PID_ACK.h" />
     <ClInclude Include="S2C_ROOM_ENTER_ACK.h" />
     <ClInclude Include="S2C_ROOM_ENTER_NTY.h" />
   </ItemGroup>

@@ -17,11 +17,42 @@ CONST int MAX_LISTENING_QUEUE = 5;
 #include "S2C_ROOM_ENTER_NTY.h"
 
 #include "C2S_PID_REQ.h"
+#include "S2C_PID_ACK.h"
 
 #include <fstream>
 #include <string>
 #include <ctime>
 #include "logger.h"
+#include <list>
+
+#include "flatbuffers/flatbuffers.h"
+#include "telepresenceC2s_generated.h"
+#include "telepresenceCommon_generated.h"
+#include "telepresenceS2c_generated.h"
+
+void RecvCharEcho(char* buffer);
+void RecvCharValidRoomNo(char* buffer);
+void RecvTwice(char* buffer);
+
+C2S_CHATECHO_REQ c2sEchoReq;
+S2C_CHATECHO_ACK s2cEchoAck;
+S2C_CHATECHO_NTY s2cEchoNty;
+
+C2S_ROOM_ENTER_REQ c2sRoomReq;
+S2C_ROOM_ENTER_ACK s2cRoomAck;
+S2C_ROOM_ENTER_NTY s2cRoomNty;
+
+C2S_PID_REQ c2sPidReq;
+S2C_PID_ACK s2cPidAck;
+
+fd_set fd_reads, cpset_reads;
+int CurrentUserPid = 0;
+CHAR port[10] = { 0, };// = "3587";
+
+ofstream file;
+ostreamFork osf(file, cout);
+
+list<int> roomList;
 
 struct User
 {
@@ -33,6 +64,9 @@ struct User
 	bool initialRecv = false;
 };
 
+map<UINT_PTR, User> userMap;
+
+
 string TimeResult()
 {
 	time_t timer = time(NULL);// 1970년 1월 1일 0시 0분 0초부터 시작하여 현재까지의 초
@@ -42,20 +76,35 @@ string TimeResult()
 	return " ";
 }
 
+enum Code
+{
+	NO_CHOICE,
+	CHAT_ECHO,
+	CHAT_ROOM,
+	PID,
+	VALID_ROOM_NO
+};
+
+map<int, void(*)(char*)> callbackMap =
+{
+	{1, RecvCharEcho},
+	{4, RecvCharValidRoomNo}
+};
+
 int main(void)
 {
-	ofstream file;
-	file.open("C:\\Users\\secrettown\\source\\repos\\Server\\Server\\log.txt", ios_base::out | ios_base::app); // 파일 경로(c:\\log.txt)
+	file.open("C:\\Users\\secrettown\\source\\repos\\Server\\Server\\log.txt", ios_base::out | ios_base::app);
+	//file.open(".\\log.txt", ios_base::out | ios_base::app); // 파일 경로(c:\\log.txt)   exe파일 실행 해야함 
 	//cout.rdbuf(file.rdbuf()); // 표준 출력 방향을 파일로 전환
-	ostreamFork osf(file, cout);
-
 
 	int userNum = 1; // 유저 개수
-	map<UINT_PTR, User> userMap;
-	int roomList[3] = { 0,1,2 };
-	CHAR port[10] = { 0, };// = "3587";
+	
+	roomList.push_back(0);
+	roomList.push_back(1);
+	roomList.push_back(2);
 	char c;
 	ifstream fin("C:\\Users\\secrettown\\source\\repos\\Server\\Server\\port.txt");
+	//ifstream fin(".\\port.txt");
 	if (fin.fail())
 	{
 		osf << "포트 파일이 없습니다 " << endl;
@@ -70,16 +119,6 @@ int main(void)
 	//osf << "Enter PORT number (3587) :";
 	//cin >> port;
 
-	C2S_CHATECHO_REQ c2sEchoReq;
-	S2C_CHATECHO_ACK s2cEchoAck;
-	S2C_CHATECHO_NTY s2cEchoNty;
-
-	C2S_ROOM_ENTER_REQ c2sRoomReq;
-	S2C_ROOM_ENTER_ACK s2cRoomAck;
-	S2C_ROOM_ENTER_NTY s2cRoomNty;
-
-	C2S_PID_REQ c2sPidReq;
-
 	while (1)
 	{
 		WSADATA wsaData; //WSADATA 구조체 변수 객체 선언
@@ -90,13 +129,9 @@ int main(void)
 
 		INT iClientAddrSize; // 주소 정보 길이
 
-		int CurrentUserPid = 0;
-
-
 		///////////////////////////////
 		//  select 함수사용 변수
 		TIMEVAL timeout;
-		fd_set fd_reads, cpset_reads;
 		unsigned int fd_selchang;
 		//////////////////////////////////
 
@@ -179,13 +214,7 @@ int main(void)
 						osf << TimeResult() << " 포트 번호: " << port << " 유저 " << userMap[hClientSocket].userIndex << " 번째 Client" << endl;
 
 						int code = 3;
-						c2sPidReq.Serialize(12, code, userMap[hClientSocket].userIndex);
-						char tmpBuffer[BUF_SIZE] = { 0, };
-						memset(tmpBuffer, 0, BUF_SIZE);
-						for (int i = 0; i < 12; i++)
-							tmpBuffer[i] = c2sPidReq.GetMsg()[i];
-						c2sPidReq.Deserialize(tmpBuffer);
-						send(hClientSocket, tmpBuffer, c2sPidReq.GetSize(), NULL);
+						send(hClientSocket, s2cPidAck.Serialize(12, code, userMap[hClientSocket].userIndex), 12, NULL);
 					}
 					//서버소켓의 변화가 아니라면 메세지을 수신한다.
 					//메세지 수신후 확인하여
@@ -211,145 +240,17 @@ int main(void)
 						}
 						else
 						{
-							c2sPidReq.Deserialize(tmpBuffer);
-							if (c2sPidReq.GetCode() == 1) //  채팅 에코 프로그램
+							s2cPidAck.Deserialize(tmpBuffer);
+							switch (s2cPidAck.GetCode())
 							{
-								c2sEchoReq.Deserialize(tmpBuffer); // c2sreq로 변경 s2cRoomNty.GetMsg() 이거 자체를 넣어버리면 char*가 deserialize에서 초기화 됨 
-
-								for (int k = 0; k < fd_count; k++)// -1(0) defualt 방
-								{
-									if (userMap[fd_reads.fd_array[k]].userIndex == c2sEchoReq.GetUserIdx())
-										CurrentUserPid = fd_reads.fd_array[k];
-								}
-
-								if (userMap[CurrentUserPid].initialRecv == false) // 처음 recv 받으면
-								{
-									int size = 0;
-									for (size = 0; size < BUF_SIZE; size++)
-									{
-										userMap[CurrentUserPid].buffer[size] = tmpBuffer[size];
-										if (size >= c2sEchoReq.GetSize() && tmpBuffer[size] == 0)
-											break;
-									}
-									userMap[CurrentUserPid].bufferSize = c2sEchoReq.GetSize();
-									userMap[CurrentUserPid].inputLegnth = size;
-									userMap[CurrentUserPid].userIndex = c2sEchoReq.GetUserIdx();
-
-									if (userMap[CurrentUserPid].inputLegnth != userMap[CurrentUserPid].bufferSize) // 여기서 inputLegnth는 총 버퍼 사이즈를 말한다 같지 않으면 recv가 또 있다는 말이다
-									{
-										userMap[CurrentUserPid].initialRecv = true;
-										break;
-									}
-								}
-								c2sEchoReq.Deserialize(userMap[CurrentUserPid].buffer);
-								userMap[CurrentUserPid].bufferSize = c2sEchoReq.GetSize();
-								userMap[CurrentUserPid].inputLegnth = c2sEchoReq.GetStringLength();
-								userMap[CurrentUserPid].userIndex = c2sEchoReq.GetUserIdx();
-								osf << TimeResult() << " 포트 번호: " << port << ", [recv] msg received. 전체 사이즈 : \"" << userMap[CurrentUserPid].bufferSize << "\" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): \"" << c2sEchoReq.GetCode() << "\" , 문자열 길이: \"" << userMap[CurrentUserPid].inputLegnth << "\" , 문자열: \"" << c2sEchoReq.GetMsg() << "\" from server \"" << userMap[CurrentUserPid].userIndex << "\" 번째 Client" << endl;// 받은 숫자를 콘솔 창에 출력
-
-								for (int k = 0; k < fd_reads.fd_count; k++)
-								{
-									if (userMap[fd_reads.fd_array[k]].roomNo == userMap[CurrentUserPid].roomNo)
-									{
-										send(fd_reads.fd_array[k], userMap[CurrentUserPid].buffer, 1024, NULL); // 다시 클라이언트에 받은 숫자를 보냄
-									}
-								}
-								memset(userMap[CurrentUserPid].buffer, 0, 1024);
-
-								osf << TimeResult() << " 포트 번호: " << port << ", [send] msg received. 전체 사이즈 : \"" << userMap[CurrentUserPid].bufferSize << "\" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): \"" << c2sEchoReq.GetCode() << "\" , 문자열 길이: \"" << userMap[CurrentUserPid].inputLegnth << "\" , 문자열: \"" << c2sEchoReq.GetMsg() << "\" from server \"" << userMap[CurrentUserPid].userIndex << "\" 번째 Client" << endl;// 받은 숫자를 콘솔 창에 출력
-							}
-							else if (c2sPidReq.GetCode() == 2) // 채팅 방 번호 선택
-							{
-								c2sRoomReq.Deserialize(tmpBuffer); // c2sreq로 변경 s2cRoomNty.GetMsg() 이거 자체를 넣어버리면 char*가 deserialize에서 초기화 됨 
-
-								for (int k = 0; k < fd_reads.fd_count; k++)// -1(0) defualt 방
-								{
-									if (userMap[fd_reads.fd_array[k]].userIndex == c2sRoomReq.GetUserIdx())
-										CurrentUserPid = fd_reads.fd_array[k];
-								}
-
-								userMap[CurrentUserPid].roomNo = c2sRoomReq.GetRoomNo();
-
-								int roomNo;
-								c2sRoomReq.GetRoomNo() == 0 ? roomNo = -1 : roomNo = c2sRoomReq.GetRoomNo();
-
-								s2cRoomAck.Serialize(c2sRoomReq.GetSize(), c2sRoomReq.GetCode(), c2sRoomReq.GetRoomNo(), 1);
-								userMap[CurrentUserPid].bufferSize = c2sRoomReq.GetSize();
-								userMap[CurrentUserPid].userIndex = c2sRoomReq.GetUserIdx();
-								for (int i = 0; i < userMap[CurrentUserPid].bufferSize; i++)
-									userMap[CurrentUserPid].buffer[i] = c2sRoomReq.GetMsg()[i];
-
-								osf << TimeResult() << " 포트 번호: " << port << ", [recv] msg received. 총 버퍼 사이즈 : \"" << userMap[CurrentUserPid].bufferSize << "\" , Code(1: 채팅 에코, 2: 채팅 룸 입장): \"" << c2sRoomReq.GetCode() << "\" , Result(1: 방 입장 성공, 0: 방 입장 실패): \"" << 1 << "\" , RoomNo: \"" << roomNo << "\" from server \"" << userMap[CurrentUserPid].userIndex << "\" 번째 Client" << endl;// 받은 숫자를 콘솔 창에 출력
-
-								for (int k = 0; k < fd_reads.fd_count; k++)// -1(0) defualt 방
-								{
-									if (userMap[fd_reads.fd_array[k]].roomNo == userMap[CurrentUserPid].roomNo)
-									{
-										send(fd_reads.fd_array[k], userMap[CurrentUserPid].buffer, 1024, NULL); //tmpBuffer -> sc2NTY
-									}
-								}
-								memset(userMap[CurrentUserPid].buffer, 0, 1024);
-								char tmpBuffer[BUF_SIZE] = { 0, };
-								memset(tmpBuffer, 0, BUF_SIZE);
-								for (int i = 0; i < c2sRoomReq.GetSize(); i++)
-									tmpBuffer[i] = c2sRoomReq.GetMsg()[i];
-								s2cRoomNty.Deserialize(tmpBuffer);
-								osf << TimeResult() << " 포트 번호: " << port << ", [send] msg received. 총 버퍼 사이즈 : \"" << s2cRoomNty.GetSize() << "\" , Code(1: 채팅 에코, 2: 채팅 룸 입장): \"" << s2cRoomNty.GetCode() << "\" , Result(1: 방 입장 성공, 0: 방 입장 실패): \"" << 1 << "\" , RoomNo: \"" << roomNo << "\" from server \"" << s2cRoomNty.GetUserIdx() << "\" 번째 Client" << endl;// 받은 숫자를 콘솔 창에 출력							
-							}
-							else if (c2sPidReq.GetCode() == 4) // 방번호 
-							{
-								c2sRoomReq.Deserialize(tmpBuffer); // c2sreq로 변경 s2cRoomNty.GetMsg() 이거 자체를 넣어버리면 char*가 deserialize에서 초기화 됨 
-
-								for (int k = 0; k < fd_reads.fd_count; k++)// -1(0) defualt 방
-								{
-									if (userMap[fd_reads.fd_array[k]].userIndex == c2sRoomReq.GetUserIdx())
-										CurrentUserPid = fd_reads.fd_array[k];
-								}
-								for (int k = 0; k < 3; k++)
-								{
-									if (roomList[k] == c2sRoomReq.GetRoomNo())
-									{
-										userMap[CurrentUserPid].roomNo = roomList[k];
-										for (int l = 0; l < fd_reads.fd_count; l++)// -1(0) defualt 방
-										{
-											if (fd_reads.fd_array[l] == CurrentUserPid)
-												send(fd_reads.fd_array[l], tmpBuffer, 1024, NULL); //tmpBuffer -> sc2NTY
-										}
-									}
-								}
-							}
-							else // recv 2번 이상
-							{
-								for (int k = 0; k < fd_count; k++)// -1(0) defualt 방
-								{
-									if (userMap[fd_reads.fd_array[k]].initialRecv == true)
-										CurrentUserPid = fd_reads.fd_array[k];
-								}
-								if (userMap[CurrentUserPid].initialRecv == true)
-								{
-									int size;
-									for (size = 0; size < BUF_SIZE; size++)
-									{
-										userMap[CurrentUserPid].buffer[userMap[CurrentUserPid].inputLegnth + size] = tmpBuffer[size]; // 기존에 있던 버퍼에 연결
-									}
-								}
-								c2sEchoReq.Deserialize(userMap[CurrentUserPid].buffer);
-								userMap[CurrentUserPid].bufferSize = c2sEchoReq.GetSize();
-								userMap[CurrentUserPid].inputLegnth = c2sEchoReq.GetStringLength();
-								userMap[CurrentUserPid].userIndex = c2sEchoReq.GetUserIdx();
-								osf << TimeResult() << " 포트 번호: " << port << ", [recv] msg received. 전체 사이즈 : \"" << userMap[CurrentUserPid].bufferSize << "\" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): \"" << c2sEchoReq.GetCode() << "\" , 문자열 길이: \"" << userMap[CurrentUserPid].inputLegnth << "\" , 문자열: \"" << c2sEchoReq.GetMsg() << "\" from server \"" << userMap[CurrentUserPid].userIndex << "\" 번째 Client" << endl;// 받은 숫자를 콘솔 창에 출력
-
-								for (int k = 0; k < fd_reads.fd_count; k++)
-								{
-									if (userMap[fd_reads.fd_array[k]].roomNo == userMap[CurrentUserPid].roomNo)
-									{
-										send(fd_reads.fd_array[k], userMap[CurrentUserPid].buffer, 1024, NULL); // 다시 클라이언트에 받은 숫자를 보냄
-									}
-								}
-								userMap[CurrentUserPid].initialRecv = false;
-								memset(userMap[CurrentUserPid].buffer, 0, 1024);
-
-								osf << TimeResult() << " 포트 번호: " << port << ", [send] msg received. 전체 사이즈 : \"" << userMap[CurrentUserPid].bufferSize << "\" , Code(1: 에코 메시지 전송, 2: 채팅 룸 입장): \"" << c2sEchoReq.GetCode() << "\" , 문자열 길이: \"" << userMap[CurrentUserPid].inputLegnth << "\" , 문자열: \"" << c2sEchoReq.GetMsg() << "\" from server \"" << userMap[CurrentUserPid].userIndex << "\" 번째 Client" << endl;// 받은 숫자를 콘솔 창에 출력
+							case Code::CHAT_ECHO:
+								callbackMap[CHAT_ECHO](tmpBuffer);
+								break;
+							case Code::VALID_ROOM_NO:
+								callbackMap[VALID_ROOM_NO](tmpBuffer);
+								break;
+							default:
+								RecvTwice(tmpBuffer);
 							}
 						}
 					}
@@ -358,4 +259,140 @@ int main(void)
 		}
 	}
 	return 0;
+}
+
+void RecvCharEcho(char* buffer)
+{
+	s2cEchoNty.Deserialize(buffer); // c2sreq로 변경 s2cRoomNty.GetMsg() 이거 자체를 넣어버리면 char*가 deserialize에서 초기화 됨 
+
+	for (int k = 0; k < fd_reads.fd_count; k++)// -1(0) defualt 방
+	{
+		if (userMap[fd_reads.fd_array[k]].userIndex == s2cEchoNty.GetUserIdx())
+			CurrentUserPid = fd_reads.fd_array[k];
+	}
+
+	if (userMap[CurrentUserPid].initialRecv == false) // 처음 recv 받으면
+	{
+		int size = 0;
+		for (size = 0; size < BUF_SIZE; size++)
+		{
+			userMap[CurrentUserPid].buffer[size] = buffer[size];
+			if (size >= s2cEchoNty.GetSize() && buffer[size] == 0)
+				break;
+		}
+		userMap[CurrentUserPid].bufferSize = s2cEchoNty.GetSize();
+		userMap[CurrentUserPid].inputLegnth = size;
+		userMap[CurrentUserPid].userIndex = s2cEchoNty.GetUserIdx();
+
+		if (userMap[CurrentUserPid].inputLegnth != userMap[CurrentUserPid].bufferSize) // 여기서 inputLegnth는 총 버퍼 사이즈를 말한다 같지 않으면 recv가 또 있다는 말이다
+		{
+			userMap[CurrentUserPid].initialRecv = true;
+			return;
+		}
+	}
+	s2cEchoNty.Deserialize(userMap[CurrentUserPid].buffer);
+	userMap[CurrentUserPid].bufferSize = s2cEchoNty.GetSize();
+	userMap[CurrentUserPid].inputLegnth = s2cEchoNty.GetStringLength();
+	userMap[CurrentUserPid].userIndex = s2cEchoNty.GetUserIdx();
+	osf << TimeResult() << " 포트 번호: " << port << ", [recv] msg received. 전체 사이즈 : \"" << userMap[CurrentUserPid].bufferSize << "\" , Code(채팅 에코:1, 채팅 룸:2, 방 번호 유무:4): \"" << s2cEchoNty.GetCode() << "\" , 문자열 길이: \"" << userMap[CurrentUserPid].inputLegnth << "\" , 문자열: \"" << s2cEchoNty.GetMsg() << "\" from server \"" << userMap[CurrentUserPid].userIndex << "\" 번째 Client" << endl;// 받은 숫자를 콘솔 창에 출력
+
+	for (int k = 0; k < fd_reads.fd_count; k++)
+	{
+		if (userMap[fd_reads.fd_array[k]].roomNo == userMap[CurrentUserPid].roomNo)
+		{
+			send(fd_reads.fd_array[k], userMap[CurrentUserPid].buffer, 1024, NULL); // 다시 클라이언트에 받은 숫자를 보냄
+		}
+	}
+	memset(userMap[CurrentUserPid].buffer, 0, 1024);
+
+	osf << TimeResult() << " 포트 번호: " << port << ", [send] msg received. 전체 사이즈 : \"" << userMap[CurrentUserPid].bufferSize << "\" , Code(채팅 에코:1, 채팅 룸:2, 방 번호 유무:4): \"" << s2cEchoNty.GetCode() << "\" , 문자열 길이: \"" << userMap[CurrentUserPid].inputLegnth << "\" , 문자열: \"" << s2cEchoNty.GetMsg() << "\" from server \"" << userMap[CurrentUserPid].userIndex << "\" 번째 Client" << endl;// 받은 숫자를 콘솔 창에 출력
+
+}
+void RecvCharValidRoomNo(char* buffer)
+{
+	s2cRoomNty.Deserialize(buffer); // c2sreq로 변경 s2cRoomNty.GetMsg() 이거 자체를 넣어버리면 char*가 deserialize에서 초기화 됨 
+	s2cRoomNty.SetCode(2);
+	for (int k = 0; k < fd_reads.fd_count; k++)// -1(0) defualt 방
+	{
+		if (userMap[fd_reads.fd_array[k]].userIndex == s2cRoomNty.GetUserIdx())
+			CurrentUserPid = fd_reads.fd_array[k];
+	}
+
+	if (find(roomList.begin(), roomList.end(), s2cRoomNty.GetRoomNo()) != roomList.end()) // 서버에 방 번호가 존재 할 시
+	{
+		userMap[CurrentUserPid].roomNo = s2cRoomNty.GetRoomNo();
+	}
+	else // 방 번호가 존재 하지 않을 때  
+	{
+		userMap[CurrentUserPid].roomNo = -100;
+		s2cRoomNty.SetCode(4);
+	}
+	s2cRoomNty.SetRoomNo(userMap[CurrentUserPid].roomNo);
+
+	int roomNo;
+	s2cRoomNty.GetRoomNo() == 0 ? roomNo = -1 : roomNo = s2cRoomNty.GetRoomNo();
+
+	userMap[CurrentUserPid].bufferSize = s2cRoomNty.GetSize();
+	userMap[CurrentUserPid].userIndex = s2cRoomNty.GetUserIdx();
+	for (int i = 0; i < userMap[CurrentUserPid].bufferSize; i++)
+		userMap[CurrentUserPid].buffer[i] = s2cRoomNty.Serialize(s2cRoomNty.GetSize(), s2cRoomNty.GetCode(), s2cRoomNty.GetRoomNo(), s2cRoomNty.GetUserIdx())[i];
+
+	osf << TimeResult() << " 포트 번호: " << port << ", [recv] msg received. 총 버퍼 사이즈 : \"" << userMap[CurrentUserPid].bufferSize << "\" ,Code(채팅 에코:1, 채팅 룸:2, 방 번호 유무:4): \"" << s2cRoomNty.GetCode() << "\" , Result(1: 방 입장 성공, 0: 방 입장 실패): \"" << 1 << "\" , RoomNo: \"" << roomNo << "\" from server \"" << userMap[CurrentUserPid].userIndex << "\" 번째 Client" << endl;// 받은 숫자를 콘솔 창에 출력
+
+	if (s2cRoomNty.GetRoomNo() == -100)
+	{
+		for (int l = 0; l < fd_reads.fd_count; l++)// -1(0) defualt 방
+		{
+			if (fd_reads.fd_array[l] == CurrentUserPid)
+				send(fd_reads.fd_array[l], s2cRoomNty.Serialize(s2cRoomNty.GetSize(), s2cRoomNty.GetCode(), s2cRoomNty.GetRoomNo(), s2cRoomNty.GetUserIdx()), 1024, NULL); //tmpBuffer -> sc2NTY
+		}
+	}
+	else
+	{
+		for (int k = 0; k < fd_reads.fd_count; k++)// -1(0) defualt 방
+		{
+			if (userMap[fd_reads.fd_array[k]].roomNo == userMap[CurrentUserPid].roomNo)
+			{
+				send(fd_reads.fd_array[k], userMap[CurrentUserPid].buffer, 1024, NULL); //tmpBuffer -> sc2NTY
+			}
+		}
+
+		osf << TimeResult() << " 포트 번호: " << port << ", [send] msg received. 총 버퍼 사이즈 : \"" << s2cRoomNty.GetSize() << "\" ,Code(채팅 에코:1, 채팅 룸:2, 방 번호 유무:4): \"" << s2cRoomNty.GetCode() << "\" , Result(1: 방 입장 성공, 0: 방 입장 실패): \"" << 1 << "\" , RoomNo: \"" << roomNo << "\" from server \"" << s2cRoomNty.GetUserIdx() << "\" 번째 Client" << endl;// 받은 숫자를 콘솔 창에 출력							
+
+	}
+
+}
+void RecvTwice(char* buffer)
+{
+	for (int k = 0; k < fd_reads.fd_count; k++)// -1(0) defualt 방
+	{
+		if (userMap[fd_reads.fd_array[k]].initialRecv == true)
+			CurrentUserPid = fd_reads.fd_array[k];
+	}
+	if (userMap[CurrentUserPid].initialRecv == true)
+	{
+		int size;
+		for (size = 0; size < BUF_SIZE; size++)
+		{
+			userMap[CurrentUserPid].buffer[userMap[CurrentUserPid].inputLegnth + size] = buffer[size]; // 기존에 있던 버퍼에 연결
+		}
+	}
+	s2cEchoNty.Deserialize(userMap[CurrentUserPid].buffer);
+	userMap[CurrentUserPid].bufferSize = s2cEchoNty.GetSize();
+	userMap[CurrentUserPid].inputLegnth = s2cEchoNty.GetStringLength();
+	userMap[CurrentUserPid].userIndex = s2cEchoNty.GetUserIdx();
+	osf << TimeResult() << " 포트 번호: " << port << ", [recv] msg received. 전체 사이즈 : \"" << userMap[CurrentUserPid].bufferSize << "\" , Code(채팅 에코:1, 채팅 룸:2, 방 번호 유무:4): \"" << s2cEchoNty.GetCode() << "\" , 문자열 길이: \"" << userMap[CurrentUserPid].inputLegnth << "\" , 문자열: \"" << s2cEchoNty.GetMsg() << "\" from server \"" << userMap[CurrentUserPid].userIndex << "\" 번째 Client" << endl;// 받은 숫자를 콘솔 창에 출력
+
+	for (int k = 0; k < fd_reads.fd_count; k++)
+	{
+		if (userMap[fd_reads.fd_array[k]].roomNo == userMap[CurrentUserPid].roomNo)
+		{
+			send(fd_reads.fd_array[k], userMap[CurrentUserPid].buffer, 1024, NULL); // 다시 클라이언트에 받은 숫자를 보냄
+		}
+	}
+	userMap[CurrentUserPid].initialRecv = false;
+	memset(userMap[CurrentUserPid].buffer, 0, 1024);
+
+	osf << TimeResult() << " 포트 번호: " << port << ", [send] msg received. 전체 사이즈 : \"" << userMap[CurrentUserPid].bufferSize << "\" , Code(채팅 에코:1, 채팅 룸:2, 방 번호 유무:4): \"" << s2cEchoNty.GetCode() << "\" , 문자열 길이: \"" << userMap[CurrentUserPid].inputLegnth << "\" , 문자열: \"" << s2cEchoNty.GetMsg() << "\" from server \"" << userMap[CurrentUserPid].userIndex << "\" 번째 Client" << endl;// 받은 숫자를 콘솔 창에 출력
+
 }

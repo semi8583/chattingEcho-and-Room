@@ -1,36 +1,43 @@
 #include "C2S_PID_REQ.h"
 char *C2S_PID_REQ::Serialize(int _size, int _code, int _pid)
 {
-	memset(this->msg, 0, 12); // 기존 멤버 변수 초기화
-	memcpy(&(this->msg[0]), &_size, sizeof(_size));
-	memcpy(&(this->msg[4]), &_code, sizeof(_code));
-	memcpy(&(this->msg[8]), &_pid, sizeof(_pid));
-	return this->msg;
+	char* newBuffer = new char[_size];
+
+	memset(newBuffer, 0, _size);
+
+	memcpy(&(newBuffer[0]), &_size, sizeof(_size));
+	memcpy(&(newBuffer[4]), &_code, sizeof(_code));
+	memcpy(&(newBuffer[8]), &_pid, sizeof(_pid));
+	return newBuffer;
 }
 
-void C2S_PID_REQ::Deserialize(char* _inputString)
+void C2S_PID_REQ::Deserialize(char* _buffer)
 {
-	memset(this->msg, 0, 12); // 기존 멤버 변수 초기화
-
-	memcpy(&this->size, &(_inputString[0]), sizeof(int));
-	memcpy(&this->code, &(_inputString[4]), sizeof(int));
-	memcpy(&this->pid, &(_inputString[8]), sizeof(int));
-	//for (int i = 0; i < this->size; i++)
-	//	this->msg[i] = _inputString[i];
+	memcpy(&this->size, &(_buffer[0]), sizeof(int));
+	memcpy(&this->code, &(_buffer[4]), sizeof(int));
+	memcpy(&this->pid, &(_buffer[8]), sizeof(int));
 }
 int C2S_PID_REQ::GetSize()
 {
 	return this->size;
 }
+void C2S_PID_REQ::SetSize(int _size)
+{
+	this->size = _size;
+}
 int C2S_PID_REQ::GetCode()
 {
 	return this->code;
+}
+void C2S_PID_REQ::SetCode(int _code)
+{
+	this->code = _code;
 }
 int C2S_PID_REQ::GetPid()
 {
 	return this->pid;
 }
-char* C2S_PID_REQ::GetMsg()
+void C2S_PID_REQ::SetPid(int _pid)
 {
-	return this->msg;
+	this->pid = _pid;
 }
