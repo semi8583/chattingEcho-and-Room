@@ -25,11 +25,6 @@ CONST int MAX_LISTENING_QUEUE = 5;
 #include "logger.h"
 #include <list>
 
-#include "flatbuffers/flatbuffers.h"
-#include "telepresenceC2s_generated.h"
-#include "telepresenceCommon_generated.h"
-#include "telepresenceS2c_generated.h"
-
 void RecvCharEcho(char* buffer);
 void RecvCharValidRoomNo(char* buffer);
 void RecvTwice(char* buffer);
